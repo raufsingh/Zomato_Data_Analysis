@@ -5,7 +5,7 @@ Embark on a culinary journey with our Zomato dataset analysis, where we unveil f
 
 Key Objectives:
 
-#Country-wise Online Deliverers:
+Country-wise Online Deliverers:
 
 Discover the dominant players in online food delivery across different countries.
 Analyze market share and delivery performance for a comprehensive understanding.
